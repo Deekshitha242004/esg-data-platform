@@ -1,0 +1,4 @@
+activity_type,quantity,unit,scope
+Diesel Consumption,500,liters,Scope 1
+Petrol Usage,200,liters,Scope 1
+Factory Fuel,-50,liters,Scope 1
